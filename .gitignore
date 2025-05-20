@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+*.pyc
+.env
+.venv/
+data/valid_titles.csv
